@@ -1,2 +1,2 @@
 # GANFF6Sprites
-GAN generate pixel art like ff6 spritesheets
+GAN generate pixel art like final fantasy 2D spritesheets
